@@ -15,7 +15,7 @@ export default function page() {
   return (
     <div>
       <h1 className={txt.hello}> Next js | Deploy to Vercel </h1>
-      <Image src={Profile} alt="Picture of the author" className="img"/>
+      <Image src={Profile}  alt="Image of the author" className="img"/>
      
 {/* 
      <br />
