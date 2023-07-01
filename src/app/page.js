@@ -1,6 +1,6 @@
 "use client"
 import Image from "next/image"
-import Profile from '../../public/next.svg'
+import Profile from '../../public/vercel.svg'
 import Link from "next/link"
 import txt from './text.module.css'
 import { useRouter } from "next/navigation"
@@ -14,8 +14,8 @@ export default function page() {
   }
   return (
     <div>
-      <h1 className={txt.hello}> Next js | image optimize </h1>
-      <Image src={Profile} alt="Picture of the author"/>
+      <h1 className={txt.hello}> Next js | Deploy to Vercel </h1>
+      <Image src={Profile} alt="Picture of the author" className="img"/>
      
 {/* 
      <br />
