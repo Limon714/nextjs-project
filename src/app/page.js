@@ -1,3 +1,4 @@
+// some changes will be added here
 import Image from 'next/image'
 
 export default function Home() {
