@@ -1,7 +1,7 @@
 import Link from "next/link"
 
 
-export default function page() {
+export default function Page() {
   return (
     <div>
       <h1> Hello Next JS About Page !!</h1>

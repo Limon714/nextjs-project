@@ -6,7 +6,7 @@ import txt from './text.module.css'
 import { useRouter } from "next/navigation"
 
 
-export default function page() {
+export default function Page() {
   console.log(Profile)
   const router = useRouter();
   const navigate = (path)=>{

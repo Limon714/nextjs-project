@@ -2,7 +2,7 @@
 
 import { useState } from "react"
 
-export default function page() {
+export default function Page() {
   const [bgcolor, setColor] = useState({backgroundColor:"lime"})
   return (
     <div>

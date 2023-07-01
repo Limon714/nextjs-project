@@ -4,7 +4,7 @@ import btn from '../button.module.css'
 import txt from '../text.module.css'
 
 import { useState } from 'react'
-export default function page() {
+export default function Page() {
   const [color, setColor] = useState("red")
   return (
     <div>
