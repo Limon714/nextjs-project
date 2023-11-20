@@ -1,3 +1,7 @@
+Nextjs 14 | TailwindCSS | Sanity | Stripe 🥰
+
+![Uploading screencapture-localhost-3000-2023-11-20-17_02_45.png…]()
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
