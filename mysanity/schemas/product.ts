@@ -37,6 +37,11 @@ export default{
             type:"number",
             title:"Product Price",
         },
+        {
+            name:"price_id",
+            type:"string",
+            title:"Product Price Id",
+        },
      
         {
             name:"category",

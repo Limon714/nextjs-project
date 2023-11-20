@@ -2,7 +2,7 @@ import  Image  from "next/image"
 import {client, urlFor} from "../lib/sanity"
 import Link from "next/link";
 async function getData(){
-  const query = "*[_type == 'heroImage'][0]";
+  const query = "*[_type == 'zeroImage'][0]";
   const data = await client.fetch(query);
   return data;
 }
